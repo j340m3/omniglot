@@ -126,3 +126,8 @@ Note, to combine the coverage data from all the tox environments run:
       - ::
 
             PYTEST_ADDOPTS=--cov-append tox
+
+
+.. image:: https://api.codacy.com/project/badge/Grade/46d7b7af5db442278b3d7fa1798bbed4
+   :alt: Codacy Badge
+   :target: https://www.codacy.com/app/bergmann-jerome/omniglot?utm_source=github.com&utm_medium=referral&utm_content=j340m3/omniglot&utm_campaign=badger

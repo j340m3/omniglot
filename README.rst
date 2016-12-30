@@ -45,9 +45,8 @@ Overview
     :target: https://landscape.io/github/j340m3/omniglot/master
     :alt: Code Quality Status
 
-.. |codacy| image:: https://img.shields.io/codacy/REPLACE_WITH_PROJECT_ID.svg?style=flat
-    :target: https://www.codacy.com/app/j340m3/omniglot
-    :alt: Codacy Code Quality Status
+.. |codacy| image:: https://api.codacy.com/project/badge/Grade/46d7b7af5db442278b3d7fa1798bbed4    
+   :target: https://www.codacy.com/app/bergmann-jerome/omniglot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=j340m3/omniglot&amp;utm_campaign=Badge_Grade
 
 .. |codeclimate| image:: https://codeclimate.com/github/j340m3/omniglot/badges/gpa.svg
    :target: https://codeclimate.com/github/j340m3/omniglot

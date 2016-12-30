@@ -13,6 +13,7 @@ Overview
       - | |travis| |appveyor| |requires|
         | |coveralls| |codecov|
         | |landscape| |scrutinizer| |codacy| |codeclimate|
+	| |p3| |pup|
     * - package
       - |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
@@ -76,6 +77,13 @@ Overview
     :alt: Scrutinizer Status
     :target: https://scrutinizer-ci.com/g/j340m3/omniglot/
 
+.. |pup| image:: https://pyup.io/repos/github/j340m3/omniglot/shield.svg
+     :target: https://pyup.io/repos/github/j340m3/omniglot/
+     :alt: Updates
+
+.. |p3| image:: https://pyup.io/repos/github/j340m3/omniglot/python-3-shield.svg
+     :target: https://pyup.io/repos/github/j340m3/omniglot/
+     :alt: Python 3
 
 .. end-badges
 

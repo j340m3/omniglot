@@ -35,7 +35,7 @@ Overview
 
 .. |coveralls| image:: https://coveralls.io/repos/j340m3/omniglot/badge.svg?branch=master&service=github
     :alt: Coverage Status
-    :target: https://coveralls.io/r/j340m3/omniglot
+    :target: https://coveralls.io/github/j340m3/omniglot
 
 .. |codecov| image:: https://codecov.io/github/j340m3/omniglot/coverage.svg?branch=master
     :alt: Coverage Status
@@ -45,7 +45,7 @@ Overview
     :target: https://landscape.io/github/j340m3/omniglot/master
     :alt: Code Quality Status
 
-.. |codacy| image:: https://api.codacy.com/project/badge/Grade/46d7b7af5db442278b3d7fa1798bbed4    
+.. |codacy| image:: https://api.codacy.com/project/badge/Grade/46d7b7af5db442278b3d7fa1798bbed4
    :target: https://www.codacy.com/app/bergmann-jerome/omniglot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=j340m3/omniglot&amp;utm_campaign=Badge_Grade
 
 .. |codeclimate| image:: https://codeclimate.com/github/j340m3/omniglot/badges/gpa.svg

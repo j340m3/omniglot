@@ -46,3 +46,4 @@ deploy:
   on:
     condition: $TOXENV = py27,extension-coveralls,coveralls
     repo: j340m3/omniglot
+    tags: true

@@ -38,3 +38,11 @@ notifications:
   email:
     on_success: never
     on_failure: always
+deploy:
+  provider: pypi
+  user: "j340m3"
+  password:
+    secure: "eHxyPzvzFpVov+Haw/e8IDt5EOFqW1Iyr9onriLjQrcv4HLK5cFnJmqmA8L2a7W57hXUfN2a+QuqQnMI2uoyGh8zDU25cJOKtDtpXluxevwb9OU4PLxDwuRVaCpkLSJT/viJtLZGQNZHshaIOzSS2X8bMjjSpFGupAkqKzHHvH8uA2XibiJpMmT1cqW2BnP5+SnKD0cVHtJcjms2k4DZshOudXtCcpd7lkx9K2ZkcUii/MUAhXo6CVE9gc2fO/s4oE50QxlW5cLET2dQmjTgdsCLfmArDZZMBeYqtPYr+9XDskqd/vW12KFa/uNGbpNw//dpIPzR5rxKpgxFsryDbZ2RYa58qwxQlT5q7u+hULlTpyn8YsNjB0IwvCLzFOjIXZHhIu6oijXgMYSfWey8yGw6YF4L7WVMRHRD8SzPjzroSZV8gTDqPqOMQUUckxKHHQiesVZ6d+eCwc6kFte1Tq/COiHb3IdaWPZN1HE+wndz3niLCejniRfRjRDRZvCcXrXd00An/Sn2L0r8VbkQupn7yvuaRohVrvZ+Fy4tUUeL4+YuiaH3O4MR7alAWxMS8V8tNLs2XqoagzdojnN9/b8vck7uM64Gnu2Kyso/WclDLvx+vJmJ5pOo5/aD3F9KmsPqczFAPfib5iS/mHRosjdn95RJtySORR42iIljQkw="
+  on:
+    condition: $TRAVIS_PYTHON_VERSION = "2.7"
+    repo: j340m3/omniglot

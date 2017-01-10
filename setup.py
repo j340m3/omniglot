@@ -46,10 +46,10 @@ class optional_build_ext(build_ext):
         try:
             build_ext.run(self)
         except Exception as e:
-            self._unavailable(e)
+            optional_build_ext._unavailable(e)
             self.extensions = []  # avoid copying missing files (it would fail).
 
-    def _unavailable(self, e):
+    def _unavailable(e):
         print('*' * 80)
         print('''WARNING:
 

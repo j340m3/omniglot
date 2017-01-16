@@ -22,5 +22,5 @@ def expression():
 def calc():
     return OneOrMore(expression), EOF
 
-parser = ParserPython(calc)
 
+parser = ParserPython(calc)

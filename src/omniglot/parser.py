@@ -1,8 +1,8 @@
+from arpeggio import RegExMatch as _
 from arpeggio import EOF
 from arpeggio import OneOrMore
 from arpeggio import Optional
 from arpeggio import ParserPython
-from arpeggio import RegExMatch as _
 from arpeggio import ZeroOrMore
 
 
